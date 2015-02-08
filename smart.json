@@ -1,0 +1,10 @@
+{
+  "name": "winston-logentries",
+  "description": "Logentries transport for Winston logging library, packaged for Meteor",
+  "homepage": "https://github.com/1024kilobyte/meteor-winston-logentries",
+  "author": "Michael Bayer <mb@bytelog.de>",
+  "version": "0.0.5",
+  "git": "https://github.com/1024kilobyte/meteor-winston-logentries.git",
+  "packages": {
+  }
+}
