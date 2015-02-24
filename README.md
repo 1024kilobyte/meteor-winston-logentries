@@ -27,3 +27,5 @@ After that you can check if it's working
 ```javascript
 log.info("======> Meteor App restarted " + new Date() + " <======");
 ```
+
+Have fun!
